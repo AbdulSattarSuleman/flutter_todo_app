@@ -1,16 +1,5 @@
-# todo_app
+# FLutter Todo app
 
-A new Flutter project.
+Flutter Todo App Using Default State Management SetState.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Watch the video](https://github.com/AbdulSattarSuleman/flutter_todo_app/blob/master/screenshots/todo_app.gif)](https://www.youtube.com/watch?v=9ISfZ3e6AQo)
